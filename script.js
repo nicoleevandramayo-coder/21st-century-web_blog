@@ -1,0 +1,1 @@
+console.log("21st Century Blog loaded successfully");
